@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Anderson</h1>
-<h5 align="center">Welcome to my git. I am a software and hardware enthusiast since I was very young. I have worked with Microsoft access, Windows form, and now WPF for windows desktop app development. I have used VBA, VB.Net, SQL, C#, HTML, CSS and JavaScript. I have also used popular 3D modelling/simulation softwares such as SolidWorks, Blender, Inventor, Ansys and OpenFoam. On my free time, I enjoy SMD soldering and tinkering with hardware components, seeing seemingly unsavageable electronics come to life gives me incredible satisfaction, very similar to when buggy code runs after it is fixed. I also enjoy playing board games and football.</h5>
+<h5 align="center"></h5>
 
-<p align="left">
+<p align="center">
+  Welcome to my git. I am a software and hardware enthusiast since I was very young. I have worked with Microsoft access, Windows form, and now WPF for windows desktop app development. I have used VBA, VB.Net, SQL, C#, XAML, HTML, CSS and JavaScript. I have also used popular 3D modelling/simulation softwares such as SolidWorks, Blender, Inventor, Ansys and OpenFoam. On my free time, I enjoy SMD soldering and tinkering with hardware components, seeing seemingly unsavageable electronics come to life gives me incredible satisfaction, very similar to when buggy code runs after it is fixed. I also enjoy playing board games and football.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -2,7 +2,7 @@
 <h5 align="center"></h5>
 
 <p align="center">
-  Welcome to my git. I am a software and hardware enthusiast. I have worked with Microsoft access, Windows form, and now WPF for windows desktop app development. I have used VBA, VB.Net, SQL, C#, XAML, HTML, CSS and JavaScript. I have also used popular 3D modelling/simulation softwares such as SolidWorks, Blender, Inventor, Ansys and OpenFoam. On my free time, I enjoy SMD soldering and tinkering with hardware components, seeing seemingly unsavageable electronics come to life gives me incredible satisfaction, very similar to when buggy code runs after it is fixed. I also enjoy playing board games and football.
+  Welcome to my git. I am a software and hardware enthusiast. I have worked with Microsoft access, Windows form, and now WPF for windows desktop app development. I have used VBA, VB.Net, SQL, C#, XAML, HTML, CSS and JavaScript. I have also used popular 3D modelling/simulation softwares such as SolidWorks, Blender, Inventor, Ansys and OpenFoam. On my free time, I enjoy SMD soldering and tinkering with hardware components, seeing seemingly unsavageable electronics come to life gives me incredible satisfaction, very similar to when a buggy code runs after it is fixed. I also enjoy playing board games and football.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
